@@ -1,0 +1,11 @@
+Model Information:
+* title:	Forest Scene
+* source:	https://sketchfab.com/3d-models/forest-scene-e5eb4867faba465d99deda487c56fbd6
+* author:	Dries Deryckere (https://sketchfab.com/deryckeredries)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Forest Scene" (https://sketchfab.com/3d-models/forest-scene-e5eb4867faba465d99deda487c56fbd6) by Dries Deryckere (https://sketchfab.com/deryckeredries) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
